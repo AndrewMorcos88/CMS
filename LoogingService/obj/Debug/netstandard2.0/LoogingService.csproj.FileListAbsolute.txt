@@ -1,0 +1,9 @@
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\bin\Debug\netstandard2.0\LoogingService.deps.json
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\bin\Debug\netstandard2.0\LoogingService.dll
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\bin\Debug\netstandard2.0\LoogingService.pdb
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\obj\Debug\netstandard2.0\LoogingService.csprojAssemblyReference.cache
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\obj\Debug\netstandard2.0\LoogingService.AssemblyInfoInputs.cache
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\obj\Debug\netstandard2.0\LoogingService.AssemblyInfo.cs
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\obj\Debug\netstandard2.0\LoogingService.csproj.CoreCompileInputs.cache
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\obj\Debug\netstandard2.0\LoogingService.dll
+F:\ASP.Net project\CMS_NEW\CMS\LoogingService\obj\Debug\netstandard2.0\LoogingService.pdb

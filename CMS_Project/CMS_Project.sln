@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS_Project", "CMS_Project.csproj", "{3A354643-3E9F-44B4-99E5-80D675AA353C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D4833EBE-8754-4229-9A8B-DC49C3AF27CE} = {D4833EBE-8754-4229-9A8B-DC49C3AF27CE}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoogingService", "..\LoogingService\LoogingService.csproj", "{D4833EBE-8754-4229-9A8B-DC49C3AF27CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{3A354643-3E9F-44B4-99E5-80D675AA353C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A354643-3E9F-44B4-99E5-80D675AA353C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A354643-3E9F-44B4-99E5-80D675AA353C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4833EBE-8754-4229-9A8B-DC49C3AF27CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4833EBE-8754-4229-9A8B-DC49C3AF27CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4833EBE-8754-4229-9A8B-DC49C3AF27CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4833EBE-8754-4229-9A8B-DC49C3AF27CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

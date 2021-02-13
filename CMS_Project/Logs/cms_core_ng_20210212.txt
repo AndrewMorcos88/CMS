@@ -1,0 +1,126 @@
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:47:56 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_Project.Program.Main(String[] args) in F:\ASP.Net project\CMS_NEW\CMS\CMS_Project\Program.cs:line 27"
+InnerException : null
+__3 : "CMS_Project"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 13256
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:48:11 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 13256
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:49:11 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 13256
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:50:00 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+EventId : { Id: 1, Name: "UnhandledException" }
+SourceContext : "Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware"
+RequestId : "80000003-0000-fe00-b63f-84710c7967bb"
+RequestPath : "/"
+SpanId : "|fcea7ed7-41d7da32425d706f."
+TraceId : "fcea7ed7-41d7da32425d706f"
+ParentId : ""
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 13256
+ProcessName : "iisexpress"
+----------------------EXCEPTION DETAILS-------------------------------
+Exception - System.TimeoutException: The Angular CLI process did not start listening for requests within the timeout period of 0 seconds. Check the log output for error information.
+   at Microsoft.AspNetCore.SpaServices.Extensions.Util.TaskTimeoutExtensions.WithTimeout[T](Task`1 task, TimeSpan timeoutDelay, String message)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)StackTrace -    at Microsoft.AspNetCore.SpaServices.Extensions.Util.TaskTimeoutExtensions.WithTimeout[T](Task`1 task, TimeSpan timeoutDelay, String message)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)Message - The Angular CLI process did not start listening for requests within the timeout period of 0 seconds. Check the log output for error information.Source - Microsoft.AspNetCore.SpaServices.ExtensionsInnerException - ---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:53:30 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_Project.Program.Main(String[] args) in F:\ASP.Net project\CMS_NEW\CMS\CMS_Project\Program.cs:line 27"
+InnerException : null
+__3 : "CMS_Project"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 18228
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:53:34 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 18228
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:53:46 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 18228
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 2/12/2021 5:54:07 PM +02:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-I60OSTN"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.17134.0"
+Version : "3.1.11"
+UserName : "DELL"
+ProcessId : 18228
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------

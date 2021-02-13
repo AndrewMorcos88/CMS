@@ -4043,9 +4043,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\LoogingService.csproj",
-      "projectName": "LoogingService",
-      "projectPath": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\LoogingService.csproj",
+      "projectUniqueName": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\Logging Service.csproj",
+      "projectName": "Logging Service",
+      "projectPath": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\Logging Service.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\obj\\",
       "projectStyle": "PackageReference",

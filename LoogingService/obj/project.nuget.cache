@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "seq56ubNVrIhocV4BZ7EEjxjLqOsgNPCZBU6Gynofpb4tIUNCbUXi0WY1d1y3pM8Z/+FVjGL64sfU0bN4JZ8EA==",
+  "dgSpecHash": "5lG9iM2VHGBtyKUu8PU2zd4IyvsxomhHQW/JuTToe09o4fuNi4EGf6VxxvrowOE4tvSrkX47O895jq8Yv8pDQg==",
   "success": true,
-  "projectFilePath": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\LoogingService.csproj",
+  "projectFilePath": "F:\\ASP.Net project\\CMS_NEW\\CMS\\LoogingService\\Logging Service.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.hosting.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.abstractions.2.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.server.abstractions.2.1.1.nupkg.sha512",
